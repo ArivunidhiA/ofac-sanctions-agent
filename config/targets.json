@@ -1,0 +1,49 @@
+{
+  "entities": [
+    {
+      "id": "T001",
+      "name": "KIM JONG UN",
+      "notes": "North Korean leader — SDN list"
+    },
+    {
+      "id": "T002",
+      "name": "VLADIMIR PUTIN",
+      "notes": "Russian Federation — EO 14024"
+    },
+    {
+      "id": "T003",
+      "name": "MAHAN AIR",
+      "notes": "Iranian airline — SDGT"
+    },
+    {
+      "id": "T004",
+      "name": "BANK MELLAT",
+      "notes": "Iranian bank — NPWMD"
+    },
+    {
+      "id": "T005",
+      "name": "WAGNER GROUP",
+      "notes": "Russian PMC — EO 14024"
+    },
+    {
+      "id": "T006",
+      "name": "ZULFI HOXHA",
+      "notes": "ISIS recruiter — SDGT"
+    },
+    {
+      "id": "T007",
+      "name": "CENTRAL BANK OF IRAN",
+      "notes": "Iranian CB — IFSR"
+    },
+    {
+      "id": "T008",
+      "name": "EMBRAER",
+      "notes": "Clean entity — expected no results"
+    }
+  ],
+  "search_settings": {
+    "score_threshold": 0,
+    "max_results_per_entity": 50,
+    "search_type": "name"
+  }
+}
