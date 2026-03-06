@@ -302,8 +302,3 @@ logs/
 - Pluggable storage backends (PostgreSQL, S3, message queues).
 
 ---
-
-## 📄 License
-
-License is currently **TBD**.  
-Choose a license (e.g. MIT, Apache-2.0) before using this in production or distributing binaries.
